@@ -1,0 +1,26 @@
+Parametro mu (umbral): 0.1
+
+--- Entrenando discriminante lineal por regiones ---
+Vector de pesos w obtenido:
+[-0.079999939;
+ -0.17000021;
+ 0.70000005]
+
+Prueba de clasificacion (Regiones) sobre set de entrenamiento:
+[1.2, 1.5]-> Clase predicha: 1
+[1.8, 2.0999999]-> Clase predicha: 1
+[2, 1.1]-> Clase predicha: 1
+[1.5, 1.8]-> Clase predicha: 1
+[2.2, 2.5]-> Clase predicha: 1
+[0.80000001, 1.2]-> Clase predicha: 1
+[1.1, 2]-> Clase predicha: 1
+[1.9, 1.4]-> Clase predicha: 1
+[7.5, 8.1000004]-> Clase predicha: 2
+[8, 7.8000002]-> Clase predicha: 2
+[8.1999998, 8.5]-> Clase predicha: 2
+[7.0999999, 7.9000001]-> Clase predicha: 2
+[8.5, 8]-> Clase predicha: 2
+[7.8000002, 8.8000002]-> Clase predicha: 2
+[9, 8.1999998]-> Clase predicha: 2
+[8.1000004, 7.5]-> Clase predicha: 2
+

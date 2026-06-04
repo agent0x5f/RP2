@@ -1,0 +1,26 @@
+--- Entrenando discriminante por distancia ---
+Centroide de clase 1:
+[1.5625;
+ 1.6999999]
+Centroide de clase 2:
+[8.0250006;
+ 8.1000004]
+
+Prueba de clasificacion (Distancia) sobre set de entrenamiento:
+[1.2, 1.5]-> Clase predicha: 1
+[1.8, 2.0999999]-> Clase predicha: 1
+[2, 1.1]-> Clase predicha: 1
+[1.5, 1.8]-> Clase predicha: 1
+[2.2, 2.5]-> Clase predicha: 1
+[0.80000001, 1.2]-> Clase predicha: 1
+[1.1, 2]-> Clase predicha: 1
+[1.9, 1.4]-> Clase predicha: 1
+[7.5, 8.1000004]-> Clase predicha: 2
+[8, 7.8000002]-> Clase predicha: 2
+[8.1999998, 8.5]-> Clase predicha: 2
+[7.0999999, 7.9000001]-> Clase predicha: 2
+[8.5, 8]-> Clase predicha: 2
+[7.8000002, 8.8000002]-> Clase predicha: 2
+[9, 8.1999998]-> Clase predicha: 2
+[8.1000004, 7.5]-> Clase predicha: 2
+
