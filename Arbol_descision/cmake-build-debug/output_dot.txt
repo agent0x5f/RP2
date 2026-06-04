@@ -1,0 +1,11 @@
+digraph ArbolDecision {
+    node0 [label="X[0] <= 5.8", shape=box];
+    node1 [label="X[0] <= 2.5", shape=box];
+    node2 [label="Clase 1", shape=ellipse, style=filled, fillcolor=lightblue];
+    node3 [label="Clase 2", shape=ellipse, style=filled, fillcolor=lightblue];
+    node1 -> node2 [label=" Si"];
+    node1 -> node3 [label=" No"];
+    node4 [label="Clase 3", shape=ellipse, style=filled, fillcolor=lightblue];
+    node0 -> node1 [label=" Si"];
+    node0 -> node4 [label=" No"];
+}
